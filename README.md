@@ -1,4 +1,4 @@
-# Olá, Me chamo Roberto Dantas 👋👋
+# Olá, Me chamo Roberto Dantas 👋
 ## Seja Bem vindo ao meu perfil GitHub
 
 <!--
