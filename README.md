@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 Atualmente estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas
 
 Estou aprendendo:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40/>
+          
