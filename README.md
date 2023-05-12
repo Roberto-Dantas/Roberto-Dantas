@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Tenho 16 anos e estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas
 
-
+<div class="tenor-gif-embed" data-postid="6108221" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mad-typing-cat-keyboard-smash-gif-6108221">Mad Typing GIF</a>from <a href="https://tenor.com/search/mad-gifs">Mad GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Tenho estudado em:
 <!-- Logos de Linguagens em estudo -->
