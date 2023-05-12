@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/roberto-dantas/roberto-dantas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/roberto-dantas/blob/output/github-contribution-grid-snake.svg)
 
 # Olá, Me chamo Roberto Dantas 👋
 ## Seja Bem vindo ao meu perfil GitHub
