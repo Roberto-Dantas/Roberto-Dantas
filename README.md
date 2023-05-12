@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/roberto-dantas/roberto-dantas/blob/output/github-contribution-grid-snake.svg)
-
 # Olá, Me chamo Roberto Dantas 👋
 ## Seja Bem vindo ao meu perfil GitHub
 
@@ -28,6 +26,8 @@ Tenho 16 anos e estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com
 
 
 ## Dados
+![Snake animation](https://github.com/roberto-dantas/roberto-dantas/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <a href="https://github.com/Roberto-Dantas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-dantas&layout=compact&langs_count=7&theme=dracula"/>
