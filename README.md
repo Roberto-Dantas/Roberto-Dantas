@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Tenho 16 anos e estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas
 
 <div>
-  <img src="https://tenor.com/zNbR.gif">
+  <img src="https://tenor.com/zNbR.gif" width="90" height="90">
 </div>
 
 ## Tenho estudado em:
