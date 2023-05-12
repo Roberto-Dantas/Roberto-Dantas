@@ -1,4 +1,4 @@
-## Eaee, Meu nome é Roberto Dantas, como ocê ta??
+## Eaee, meu nome é Roberto Dantas, como ocê ta??
 
 <!--
 **Roberto-Dantas/Roberto-Dantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
