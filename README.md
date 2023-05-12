@@ -17,12 +17,15 @@ Here are some ideas to get you started:
 
 Tenho 16 anos e estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas
 
-<div class="tenor-gif-embed" data-postid="6108221" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mad-typing-cat-keyboard-smash-gif-6108221">Mad Typing GIF</a>from <a href="https://tenor.com/search/mad-gifs">Mad GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div>
+  <img src="https://tenor.com/zNbR.gif">
+</div>
 
 ## Tenho estudado em:
 <!-- Logos de Linguagens em estudo -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+</div>
 
 
 ## Dados
