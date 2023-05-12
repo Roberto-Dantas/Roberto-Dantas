@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 # Olá, Me chamo Roberto Dantas 👋
 ## Seja Bem vindo ao meu perfil GitHub
 
