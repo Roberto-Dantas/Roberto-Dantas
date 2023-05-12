@@ -5,7 +5,7 @@
 -->
 </br>
 <p>Tenho 16 anos e estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas</p>
-</br></br>
+</br>
 
 ## Estudando
 <!-- Logos de Linguagens em estudo -->
@@ -15,6 +15,7 @@
 
 </br>
 
+## Dados
 <div>
 <a href="https://github.com/Roberto-Dantas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-dantas&layout=compact&langs_count=7&theme=dracula"/>
