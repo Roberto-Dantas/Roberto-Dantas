@@ -11,6 +11,7 @@
   <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
 </div>
 </br>
+
 ## Estudando
 <!-- Logos de Linguagens em estudo -->
 <div>
