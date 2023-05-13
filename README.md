@@ -8,6 +8,7 @@
 <div>
   <img src="https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif" width="100%"/>
 </div>
+
 </br>
 
 <p>Tenho 16 anos e estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas, e pretendo continuar por essa área...</p>
