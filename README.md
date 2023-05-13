@@ -4,12 +4,13 @@
 **Roberto-Dantas/Roberto-Dantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 </br>
-<p>Tenho 16 anos e estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas</p>
-</br>
 
 <div>
   <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
 </div>
+</br>
+
+<p>Tenho 16 anos e estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas, e pretendo continuar por essa área...</p>
 </br>
 
 ## Estudando
