@@ -6,7 +6,7 @@
 </br>
 
 <div>
-  <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
+  <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" width="100%">
 </div>
 </br>
 
