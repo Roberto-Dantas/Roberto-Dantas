@@ -25,13 +25,13 @@
           
   </div>  
   </br>
-  <h3>Frameworks</h3>
+  <h3>FrameWorks</h3>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/>
     <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" height="55" />  
   </div>
   </br>
-  <h3>Banco de Dados</h3>
+  <h3>Database</h3>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="55" height="55"/>
   </div>
