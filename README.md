@@ -7,6 +7,10 @@
 <p>Tenho 16 anos e estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas</p>
 </br>
 
+<div>
+  <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
+</div>
+</br>
 ## Estudando
 <!-- Logos de Linguagens em estudo -->
 <div>
