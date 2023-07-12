@@ -12,7 +12,7 @@
 </br>
 
 <div>
-  <p>Tenho 16 anos e estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas, e pretendo continuar por essa área...</p>
+  <p>Tenho 17 anos e estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas, e pretendo continuar por essa área...</p>
   </br>
   <h3><b>Futuro curso na Facul:</b></h3>
   <p>-Ciência de dados😢🤪</p>
