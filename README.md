@@ -1,4 +1,4 @@
-##Olá, meu nome é Roberto Dantas, tudo bem com você??
+## Olá, meu nome é Roberto Dantas, tudo bem com você??
 
 <!--
 **Roberto-Dantas/Roberto-Dantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@
 <div>
   <p>Tenho 16 anos e estudo na Etec de Sapopemba, estou no 2 ano do Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas, e pretendo continuar por essa área...</p>
   </br>
-  <h2><b>Futuro curso na Facul:</b></h2>
+  <h3><b>Futuro curso na Facul:</b></h3>
   <p>-Ciência de dados😢🤪</p>
   <p>-Engenharia de Software😘😍</p>
 </div>
