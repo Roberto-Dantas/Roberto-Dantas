@@ -6,7 +6,7 @@
 </br>
 
 <div>
-  <img src="https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif" alt="Não tenho fotos, sou tímido"/>
+  <img src="./media/roberto.jpg" alt="Roberto Dantas | Eu"/>
 </div>
 
 </br>
