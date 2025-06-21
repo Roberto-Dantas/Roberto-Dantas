@@ -25,7 +25,7 @@
 <!-- Logos de Linguagens em estudo -->
 <div>
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55"/><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="55" height="55"/>
+    <img alt="logo_html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/><img alt="logo_css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/><img alt="logo_Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/><img alt="logo_nodeJS" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27728%2Fnode-js&psig=AOvVaw05o30AgOWCHeNGc38u43eU&ust=1750618483870000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC0jZmYg44DFQAAAAAdAAAAABAE" width="55" height="55"/><img alt="logo_php" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="55" height="55"/>
           
   </div>  
   </br>
