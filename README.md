@@ -9,10 +9,9 @@
 <br>
 
 <div>
-  <p>Tenho 19 anos, sou técnico em Desenvolvimento de Sistemas, pretendo continuar como também me aprofundar por essa área...</p>
+  <p>Tenho 19 anos, sou técnico em Desenvolvimento de Sistemas, e apaixonado pela área da programação, quero muito transformar meio cotidiano de trabalho em linhas de programação</p>
   <br>
   <b><p>Meu sonho é estudar na FIAP, os demais cursos:</p></b>
-  <br>
 <!--   <h3>Futuro curso na Facul:</h3> -->
   <p>-Ciência de dados😢🤪</p>
   <p>-Engenharia de Software😘😍</p>
