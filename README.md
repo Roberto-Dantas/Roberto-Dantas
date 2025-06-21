@@ -1,8 +1,5 @@
 ## Olá, meu nome é Roberto Dantas, um grande fã da programação!!
 
-<!--
-**Roberto-Dantas/Roberto-Dantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 </br>
 
 <div>
@@ -12,7 +9,8 @@
 </br>
 
 <div>
-  <p>Tenho 18 anos, e sou técnico em Desenvolvimento de Sistemas, pretendo continuar como também me aprofundar por essa área...</p>
+  <p>Tenho 19 anos, sou técnico em Desenvolvimento de Sistemas, pretendo continuar como também me aprofundar por essa área...</p>
+  <p>Meu sonho é estudar na FIAP, os demais cursos:</p>
   </br>
   <h3><b>Futuro curso na Facul:</b></h3>
   <p>-Ciência de dados😢🤪</p>
@@ -22,7 +20,6 @@
 </br>
 
 ## Linguagens
-<!-- Logos de Linguagens em estudo -->
 <div>
   <div>
     <img alt="logo_html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/><img alt="logo_css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/><img alt="logo_Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/><img alt="logo_nodeJS" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="55" height="55"/><img alt="logo_php" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="55" height="55"/>
