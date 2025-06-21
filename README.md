@@ -1,23 +1,24 @@
 ## Olá, meu nome é Roberto Dantas, um grande fã da programação!!
 
-</br>
+<br>
 
 <div>
   <img src="./media/roberto.jpg" alt="Roberto Dantas | Eu"/>
 </div>
 
-</br>
+<br>
 
 <div>
   <p>Tenho 19 anos, sou técnico em Desenvolvimento de Sistemas, pretendo continuar como também me aprofundar por essa área...</p>
-  <p>Meu sonho é estudar na FIAP, os demais cursos:</p>
-  </br>
-  <h3><b>Futuro curso na Facul:</b></h3>
+  <br>
+  <b><p>Meu sonho é estudar na FIAP, os demais cursos:</p></b>
+  <br>
+<!--   <h3>Futuro curso na Facul:</h3> -->
   <p>-Ciência de dados😢🤪</p>
   <p>-Engenharia de Software😘😍</p>
 </div>
 
-</br>
+<br>
 
 ## Linguagens
 <div>
@@ -25,19 +26,19 @@
     <img alt="logo_html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/><img alt="logo_css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/><img alt="logo_Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/><img alt="logo_nodeJS" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="55" height="55"/><img alt="logo_php" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="55" height="55"/>
           
   </div>  
-  </br>
+  <br>
   <h3>FrameWorks</h3>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/>
     <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" height="55" />  
   </div>
-  </br>
+  <br>
   <h3>Database</h3>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="55" height="55"/>
   </div>
 </div>
-</br>
+<br>
 
 ## Linguagem que mais usei:
 <div>
