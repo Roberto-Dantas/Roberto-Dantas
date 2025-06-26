@@ -47,9 +47,10 @@
 
 ## Estatisticas:
 
-<a href="https://github.com/Roberto-Dantas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-dantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true"/>
-</div>
+<a href="https://github.com/Roberto-Dantas" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-dantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub Stats"/>
+</a>
+
 
   ## Contato
 <div>
