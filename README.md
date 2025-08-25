@@ -22,7 +22,7 @@
 ## Linguagens
 <div>
   <div>
-    <img alt="logo_html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/><img alt="logo_css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/><img alt="logo_Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/><img alt="logo_nodeJS" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="55" height="55"/><img alt="logo_php" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="55" height="55"/><img alt="logo_python" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="55" height="55"/>
+    <img alt="logo_html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/><img alt="logo_css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/><img alt="logo_Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/><img alt="logo_nodeJS" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="55" height="55"/><img alt="logo_php" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="55" height="55"/><img alt="logo_python" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="55" height="55"/>
           
   </div>  
   <br>
