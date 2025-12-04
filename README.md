@@ -8,17 +8,15 @@
     <img src="./media/roberto.jpg" alt="Foto de Roberto Dantas">
 </div>
 
-<div class="section">
-    <h2>Apresentação</h2>
-    <p>
-        Sou Técnico em Desenvolvimento de Sistemas e estudante de Análise e Desenvolvimento 
-        de Sistemas pela FIAP. Tenho experiência com desenvolvimento Full Stack, automação de processos,
-        criação de interfaces e suporte técnico. Busco sempre aprimorar minhas habilidades e contribuir com soluções 
-        eficientes que atendam às necessidades dos usuários e empresas.
-        
-        Tenho forte interesse nas áreas de Engenharia de Software, Desenvolvimento Web, Automação e Ciência de Dados.
-    </p>
-</div>
+
+  ## Apresentação
+      Sou Técnico em Desenvolvimento de Sistemas e estudante de Análise e Desenvolvimento 
+      de Sistemas pela FIAP. Tenho experiência com desenvolvimento Full Stack, automação de processos,
+      criação de interfaces e suporte técnico. Busco sempre aprimorar minhas habilidades e contribuir com soluções 
+      eficientes que atendam às necessidades dos usuários e empresas.
+      
+      Tenho forte interesse nas áreas de Engenharia de Software, Desenvolvimento Web, Automação e Ciência de Dados.
+
 
 ## Tecnologias
 
