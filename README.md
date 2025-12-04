@@ -1,66 +1,126 @@
-## Olá, meu nome é Roberto Dantas, um grande fã da programação!!
 
-<br>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: #0d1117;
+        color: #e6e6e6;
+        line-height: 1.6;
+        margin: 0;
+        padding: 20px;
+    }
 
-<div>
-  <img src="./media/roberto.jpg" alt="Roberto Dantas | Eu"/>
+    h1, h2, h3 {
+        color: #58a6ff;
+    }
+
+    .foto {
+        margin: 20px 0;
+        text-align: center;
+    }
+
+    .foto img {
+        width: 180px;
+        border-radius: 10px;
+        border: 2px solid #30363d;
+    }
+
+    .section {
+        margin-top: 35px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #30363d;
+    }
+
+    .icons img {
+        margin-right: 10px;
+    }
+
+    a {
+        color: #58a6ff;
+        text-decoration: none;
+    }
+
+    .contato img {
+        margin-right: 10px;
+        height: 35px;
+    }
+
+</style>
+</head>
+<body>
+
+<h1>Roberto Dantas</h1>
+<h3>Desenvolvedor Júnior | Técnico em Desenvolvimento de Sistemas</h3>
+
+<div class="foto">
+    <img src="./media/roberto.jpg" alt="Foto de Roberto Dantas">
 </div>
 
-<br>
+<div class="section">
+    <h2>Apresentação</h2>
+    <p>
+        Sou Técnico em Desenvolvimento de Sistemas e estudante de Análise e Desenvolvimento 
+        de Sistemas pela FIAP. Tenho experiência com desenvolvimento Full Stack, automação de processos,
+        criação de interfaces e suporte técnico. Busco sempre aprimorar minhas habilidades e contribuir com soluções 
+        eficientes que atendam às necessidades dos usuários e empresas.
+    </p>
 
-<div>
-  <p>Tenho 19 anos, sou técnico em Desenvolvimento de Sistemas, e apaixonado pela área da programação, quero muito transformar meio cotidiano de trabalho em linhas de programação</p>
-  <br>
-  <b><p>Meu sonho é estudar na FIAP, os demais cursos:</p></b>
-<!--   <h3>Futuro curso na Facul:</h3> -->
-  <p>-Ciência de dados😢🤪</p>
-  <p>-Engenharia de Software😘😍</p>
+    <p>
+        Tenho forte interesse nas áreas de Engenharia de Software, Desenvolvimento Web, Automação e Ciência de Dados.
+    </p>
 </div>
 
-<br>
+<div class="section">
+    <h2>Tecnologias</h2>
 
-## Linguagens
-<div>
-  <div>
-    <img alt="logo_html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/><img alt="logo_css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/><img alt="logo_Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/><img alt="logo_nodeJS" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="55" height="55"/><img alt="logo_php" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="55" height="55"/><img alt="logo_python" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="55" height="55"/>
-          
-  </div>  
-  <br>
-  <h3>FrameWorks</h3>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/>
-    <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" height="55" />  
-  </div>
-  <br>
-  <h3>Database</h3>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="55" height="55"/>
-  </div>
-</div>
-<br>
+    <h3>Linguagens</h3>
+    <div class="icons">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55">
+    </div>
 
-## Linguagem que mais usei:
-<div>
-<a href="https://github.com/Roberto-Dantas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-dantas&layout=compact&langs_count=7&theme=dracula&hide_title=true"/>
+    <h3>Frameworks e Bibliotecas</h3>
+    <div class="icons">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55">
+        <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" width="55">
+    </div>
+
+    <h3>Banco de Dados</h3>
+    <div class="icons">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="55">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55">
+    </div>
 </div>
 
-## Estatisticas:
+<div class="section">
+    <h2>Estatísticas</h2>
 
-<a href="https://github.com/Roberto-Dantas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-dantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <div>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-dantas&layout=compact&langs_count=7&theme=dracula&hide_title=true">
+    </div>
+    <br>
+    <div>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-dantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    </div>
 </div>
 
-
-  ## Contato
-<div>
-  <a href="https://instagram.com/rooo_oh_?igshid=ZGUzMzM3NWJiOQ==" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:robertodantas990@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/roberto-dantas-095795218" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>   
+<div class="section">
+    <h2>Contato</h2>
+    <div class="contato">
+        <a href="https://instagram.com/rooo_oh_" target="_blank">
+            <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        </a>
+        <a href="mailto:robertodantas990@gmail.com" target="_blank">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
+        <a href="https://www.linkedin.com/in/roberto-dantas-095795218" target="_blank">
+            <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+    </div>
 </div>
+
+</body>
+</html>
